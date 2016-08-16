@@ -106,26 +106,15 @@ header img{
 .tag {
   background-color: #fff;
   color: black;
-  padding: 10px;
-  border-radius: 5px;
+  padding: 5px;
   display: table;
   margin: 10px auto;
 } 
-
-.tag-exp {
-  background-color: #000;
-  color: #fff;
-  padding: 10px;
-  border-radius: 5px;
-  display: table;
-  margin: 10px auto;
-} 
-
 
 .location {
   background-color: #222;
   color: #fff;
-  min-width:100%
+  width:100%;
 }
 
 
