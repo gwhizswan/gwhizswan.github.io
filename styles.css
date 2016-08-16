@@ -25,7 +25,9 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: #222;
+    opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
   min-height: 30px;
   padding: 10px;
   position: fixed;
