@@ -98,7 +98,7 @@ header .profile-image {
   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: rotate(5deg);
   filter: grayscale(0%);
   -moz-filter: grayscale(0%);
   -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
