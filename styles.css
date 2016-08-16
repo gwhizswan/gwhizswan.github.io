@@ -106,7 +106,8 @@ header img{
 .tag {
   background-color: #fff;
   color: black;
-  padding: 5px;
+  padding: 10px;
+  border-radius: 0px;
   display: table;
   margin: 10px auto;
 } 
