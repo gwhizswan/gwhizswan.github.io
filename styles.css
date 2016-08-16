@@ -109,7 +109,7 @@ header .profile-experience {
 
 }
 header .profile-image:hover {
-  transform: rotate(45deg);
+  transform: scale(1) rotate(20deg);
 
 
 
