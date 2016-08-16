@@ -103,9 +103,6 @@ header img{
 }
 
 
-
-
-
 .tag {
   background-color: #fff;
   color: black;
@@ -122,6 +119,7 @@ header img{
   border-radius: 5px;
   display: table;
   margin: 10px auto;
+  width:50%;
 } 
 
 
@@ -240,9 +238,7 @@ a.social {
   height: 30px;
   background-size: 30px 30px;
   opacity: .4;
-  transition: all .5s;
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+
 }
 a.twitter {
   background-image: url(images/twitter.svg);
