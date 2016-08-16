@@ -110,6 +110,8 @@ header img{
   border-radius: 0px;
   display: table;
   margin: 10px auto;
+  opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */
 } 
 
 .location {
