@@ -88,7 +88,7 @@ header {
 }
 
 
-.profile-image {
+header img{
   margin-top: 50px;
   width: 150px;
   height: 150px;
@@ -100,23 +100,14 @@ header {
 
 
 .profile-experience {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
   border: 10px solid #000;
-  transition: all .5s;
 }
 
 }
 .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
-.profile-experience:hover {
-  transform: scale(1.2) rotate(5deg);
 
-  
-}
 
 .tag {
   background-color: #fff;
