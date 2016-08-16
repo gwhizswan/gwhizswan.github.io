@@ -61,7 +61,7 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid #222;
 }
 
 .experience{
@@ -70,7 +70,7 @@ text-align: center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid #222;
 }
 
 
@@ -80,7 +80,7 @@ text-align: center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid #222;
 
 }
 header {
@@ -99,7 +99,7 @@ header img{
 
 
 .profile-experience {
-  border: 10px solid #000;
+  border: 10px solid #222;
 }
 
 
