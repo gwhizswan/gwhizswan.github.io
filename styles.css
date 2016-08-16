@@ -94,7 +94,7 @@ header {
   height: 150px;
   border-radius: 50%;
   border: 10px solid #fff;
-  transform: scale(1) rotate(20deg);
+  transform: scale(1) rotate(10deg);
   transition: all .5s;
 }
 
@@ -110,7 +110,7 @@ header {
 
 }
 header .profile-image:hover {
-  transform: scale(1) rotate(20deg);
+  transform: scale(1) rotate(10deg);
 
 }
 header .profile-experience:hover {
