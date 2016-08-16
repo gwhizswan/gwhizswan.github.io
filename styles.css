@@ -92,7 +92,6 @@ header .profile-image {
   height: 150px;
   border-radius: 50%;
   border: 10px solid #fff;
-  transition: all .5s;
   filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
