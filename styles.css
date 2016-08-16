@@ -93,13 +93,7 @@ header .profile-image {
   border-radius: 50%;
   border: 10px solid #fff;
  
-}
-header .profile-image:hover {
-  transform: rotate(45deg);
 
-
-
-}
 
 
 header .profile-experience {
@@ -111,6 +105,14 @@ header .profile-experience {
   transition: all .5s;
 
 	
+}
+
+}
+header .profile-image:hover {
+  transform: rotate(45deg);
+
+
+
 }
 header .profile-experience:hover {
   transform: scale(1.2) rotate(5deg);
