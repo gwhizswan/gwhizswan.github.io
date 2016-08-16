@@ -92,15 +92,12 @@ header .profile-image {
   height: 150px;
   border-radius: 50%;
   border: 10px solid #fff;
-  filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
+ 
 }
 header .profile-image:hover {
   transform: rotate(5deg);
-  filter: grayscale(0%);
-  -moz-filter: grayscale(0%);
-  -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+
+
 
 }
 
@@ -112,16 +109,12 @@ header .profile-experience {
   border-radius: 50%;
   border: 10px solid #000;
   transition: all .5s;
-  -moz-filter: grayscale(100%);
-	-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
-    filter: grayscale(100%);
+
 	
 }
 header .profile-experience:hover {
   transform: scale(1.2) rotate(5deg);
-  filter: grayscale(0%);
-  -moz-filter: grayscale(0%);
-  -webkit-filter: grayscale(0); /* Google Chrome, Safari 6+ & Opera 15+ */
+
   
 }
 
