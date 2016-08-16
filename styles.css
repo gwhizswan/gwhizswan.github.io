@@ -96,22 +96,18 @@ header .profile-image {
 }
 
 
-header .profile-experience {
+.profile-experience {
   margin-top: 50px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
   border: 10px solid #000;
   transition: all .5s;
-
-	
 }
 
 }
 header .profile-image:hover {
   transform: scale(1) rotate(20deg);
-
-
 
 }
 header .profile-experience:hover {
