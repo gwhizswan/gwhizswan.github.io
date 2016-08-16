@@ -86,6 +86,8 @@ text-align: center;
 header {
   line-height: 1.5;
 }
+
+
 .profile-image {
   margin-top: 50px;
   width: 150px;
@@ -93,7 +95,7 @@ header {
   border-radius: 50%;
   border: 10px solid #fff;
   transform: scale(1) rotate(20deg);
- 
+  transition: all .5s;
 }
 
 
