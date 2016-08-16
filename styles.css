@@ -109,10 +109,10 @@ header {
 }
 
 }
-header .profile-image:hover {
+.profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
-header .profile-experience:hover {
+.profile-experience:hover {
   transform: scale(1.2) rotate(5deg);
 
   
