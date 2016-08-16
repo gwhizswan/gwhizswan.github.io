@@ -94,23 +94,24 @@ header .profile-image {
   border: 10px solid #fff;
  
 }
+header .profile-image:hover {
+  transform: rotate(45deg);
 
 
 
-header .profile-image:hover{
+}
+
+
+header .profile-experience {
   margin-top: 50px;
   width: 150px;
   height: 150px;
   border-radius: 50%;
-
+  border: 10px solid #000;
   transition: all .5s;
 
 	
 }
-
-header .profile-experience {
-  border: 10px solid #000;
-  }
 header .profile-experience:hover {
   transform: scale(1.2) rotate(5deg);
 
