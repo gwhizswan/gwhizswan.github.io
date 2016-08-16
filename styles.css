@@ -119,13 +119,13 @@ header img{
   border-radius: 5px;
   display: table;
   margin: 10px auto;
-  width:100%;
 } 
 
 
 .location {
   background-color: #222;
   color: #fff;
+  min-width:100%
 }
 
 
