@@ -252,9 +252,9 @@ a.social:hover {
 
 
 .coffee{
-max-width:50%;
-margin: 0 auto;
-
+    display: block;
+    margin: auto;
+    width: 40%;
 }
 
 /* Styles for larger screens */
